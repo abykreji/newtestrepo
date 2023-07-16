@@ -5,3 +5,7 @@
 SELECT column_name FROM schema_name.table_name;
 
 ```
+### Uploaded files 
+
+* sample.txt.txt
+* sampledoc.txt.txt
